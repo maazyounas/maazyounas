@@ -3,7 +3,6 @@
 I build modern, scalable web and mobile applications using the **MERN stack** and **React Native**.  
 I specialize in **clean architecture, performance optimization**, and turning real-world problems into polished digital solutions.
 
-🔹 Currently seeking opportunities as a **Junior Software Engineer / Junior Full Stack Developer**  
 🔹 Strong focus on **frontend development, REST APIs, and database design**  
 🔹 Comfortable with **web & mobile apps, real-time systems, and AI integrations**
 
